@@ -1,6 +1,6 @@
 Olá! 👋 Eu sou Rafael
 
-## 💻 Desenvolvedor PHP
+## 💻 Software Engineer 
 
 Sou formado em Sistemas de Informação e atualmente trabalho com desenvolvimento em PHP.
 
