@@ -1,8 +1,6 @@
 Olá! 👋 Eu sou Rafael
 
-## 💻 Engenheiro de Software
-
-Sou formado em Sistemas de Informação e atualmente trabalho com desenvolvimento em PHP.
+Sou formado em Sistemas de Informação e atualmente trabalho com desenvolvimento em PHP e JavaScript.
 
 Atualmente estou focado em aprender desenvolvimento web, com ênfase em PHP e no ecossistema Laravel.
 
