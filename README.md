@@ -35,5 +35,5 @@ Aqui você pode encontrar alguns dos meus projetos e exercícios desenvolvidos d
 Continuar evoluindo como desenvolvedor, construindo projetos cada vez mais completos e aprofundando meus conhecimentos em PHP, Laravel e desenvolvimento de software.
 
 📫 Contato
-GitHub: [Rafael](https://github.com/RafaelSSilva/)
-LinkedIn: [Rafael](https://www.linkedin.com/in/rafael-silva-39795414a/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)] [Rafael](https://github.com/RafaelSSilva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)] [Rafael](https://www.linkedin.com/in/rafael-silva-39795414a/)
