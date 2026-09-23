@@ -1,12 +1,12 @@
 Olá! 👋 Eu sou Rafael
 
-💻 Desenvolvedor PHP
+## 💻 Desenvolvedor PHP
 
 Sou formado em Sistemas de Informação e atualmente trabalho com desenvolvimento em PHP.
 
 Atualmente estou focado em aprender desenvolvimento web, com ênfase em PHP e no ecossistema Laravel.
 
-🚀 Tecnologias
+## 🚀 Tecnologias
 PHP
 HTML5
 CSS3
@@ -14,7 +14,7 @@ JavaScript
 Git & GitHub
 MySQL
 
-📚 Atualmente estudando
+## 📚 Atualmente estudando
 PHP
 Programação Orientada a Objetos
 Git e GitHub
@@ -22,7 +22,7 @@ Laravel
 Fundamentos de desenvolvimento web
 Linux
 
-🛠️ Projetos
+## 🛠️ Projetos
 
 Aqui você pode encontrar alguns dos meus projetos e exercícios desenvolvidos durante meus estudos:
 
