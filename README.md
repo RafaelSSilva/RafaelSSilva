@@ -13,7 +13,7 @@ CSS3
 JavaScript
 Git & GitHub
 MySQL
-Laravel (em aprendizado)
+
 📚 Atualmente estudando
 PHP
 Programação Orientada a Objetos
