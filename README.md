@@ -2,7 +2,7 @@ Olá! 👋 Eu sou Rafael
 
 Sou formado em Sistemas de Informação e atualmente trabalho com desenvolvimento em PHP e JavaScript.
 
-Atualmente estou focado em aprender desenvolvimento web, com ênfase em PHP e no ecossistema Laravel.
+Atualmente estou focado em aprender o ecossistema Laravel.
 
 ## 🚀 Tecnologias
 PHP
